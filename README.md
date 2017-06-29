@@ -24,5 +24,11 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 ### Added new brach: work01
 
 ### Added remote on branc Work01
+<<<<<<< HEAD
 
 Added locally!
+=======
+>>>>>>> 3a74b206115b053a29c55367ca37be148d52a8f9
+
+Added remotely
+>>>>>>> cf5a7e7f2680d79137890aaa16200807114716cf
